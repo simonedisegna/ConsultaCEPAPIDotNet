@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ConsultaCEPAPIDotNet")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d8d472275f17eb2091677d54d9721fa99a4939e3")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+035be6481461f679e865d9ff5cffadbd47d53711")]
 [assembly: System.Reflection.AssemblyProductAttribute("ConsultaCEPAPIDotNet")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ConsultaCEPAPIDotNet")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
