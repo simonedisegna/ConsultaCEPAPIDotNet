@@ -56,7 +56,7 @@ Esta API permite consultar informações de múltiplos CEPs utilizando o serviç
     GET http://localhost:5104/api/ConsultaCep/search/local/01001000,17560246
     Accept: application/json  
 	```
-***OBS: verifica qual código o sistema irá gerar quando der o donet run, pois a numeração 5104 pode variar, ai deverá atyaluzar***
+***OBS: verifica qual código o sistema irá gerar quando der o donet run, pois a numeração 5104 pode variar, ai deverá atualuzar***
 
 - *Exemplo de Resposta:*****
 
