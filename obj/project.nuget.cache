@@ -1,0 +1,27 @@
+{
+  "version": 2,
+  "dgSpecHash": "TEw9uIDo8jA=",
+  "success": false,
+  "projectFilePath": "C:\\xampp\\htdocs\\ConsultaCEPAPIDotNet\\ConsultaCEPAPIDotNet.csproj",
+  "expectedPackageFiles": [],
+  "logs": [
+    {
+      "code": "NU1100",
+      "level": "Error",
+      "message": "Não foi possível resolver 'Microsoft.AspNetCore.OpenApi (>= 8.0.7)' para 'net8.0'.",
+      "libraryId": "Microsoft.AspNetCore.OpenApi",
+      "targetGraphs": [
+        "net8.0"
+      ]
+    },
+    {
+      "code": "NU1100",
+      "level": "Error",
+      "message": "Não foi possível resolver 'Swashbuckle.AspNetCore (>= 6.4.0)' para 'net8.0'.",
+      "libraryId": "Swashbuckle.AspNetCore",
+      "targetGraphs": [
+        "net8.0"
+      ]
+    }
+  ]
+}
