@@ -1,0 +1,7 @@
+### Consulta de CEPs na API de ConsultaCEPAPI
+
+# Testar a rota de consulta de CEPs
+GET http://localhost:5104/api/ConsultaCep/search/local/01001000,17560246
+Accept: application/json
+
+###
